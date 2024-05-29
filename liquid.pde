@@ -1,4 +1,4 @@
-Block[] blocks; //what?
+Block[] blocks;
 int rows;
 int sizeMult;
 boolean direction;
